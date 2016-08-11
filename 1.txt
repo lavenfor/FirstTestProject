@@ -1,0 +1,8 @@
+
+<h1>开发项目名称</h1>  
+                                
+<h2>开发项目</h2>
+<ul>
+<li>[<a href='http://6.jira.yintai.org/browse/WMS-938'>WMS-938</a>] -         WMS客服端通用出库界面针对新服务调整代码
+</li>
+</ul>
